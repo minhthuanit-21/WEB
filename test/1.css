@@ -1,0 +1,9 @@
+*{}
+.panel.panel-primary.text-center {
+    background-color: gray;
+    color: white;
+}
+p.tieude{
+	background-color: gray;
+	color:white;
+}
